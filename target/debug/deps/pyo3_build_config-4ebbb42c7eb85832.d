@@ -1,0 +1,14 @@
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/pyo3_build_config-4ebbb42c7eb85832.d: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/errors.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/impl_.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config-file.txt /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config.txt
+
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/libpyo3_build_config-4ebbb42c7eb85832.rlib: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/errors.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/impl_.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config-file.txt /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config.txt
+
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/libpyo3_build_config-4ebbb42c7eb85832.rmeta: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/errors.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/impl_.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config-file.txt /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config.txt
+
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/lib.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/errors.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/pyo3-build-config-0.23.5/src/impl_.rs:
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config-file.txt:
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out/pyo3-build-config.txt:
+
+# env-dep:CARGO_PKG_VERSION=0.23.5
+# env-dep:OUT_DIR=/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/pyo3-build-config-57e5c3480bf5f883/out

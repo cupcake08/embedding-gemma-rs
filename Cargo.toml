@@ -1,0 +1,24 @@
+[package]
+name = "embedding_gemma_rs"
+version = "0.1.0"
+edition = "2021"
+
+[lib]
+name = "embedding_gemma_rs"
+crate-type = ["cdylib"]
+
+[dependencies]
+# FastEmbed for text embeddings (using local fork with OnnxSource::File support)
+fastembed = { path = "../fastembed-rs", default-features = false, features = ["ort-load-dynamic", "hf-hub-native-tls"] }
+
+# Python bindings
+pyo3 = { version = "0.23.3", features = ["extension-module"], optional = true }
+pyo3-log = { version = "0.12", optional = true }
+
+# Error handling
+eyre = "0.6"
+
+[features]
+extension-module = ["pyo3/extension-module", "dep:pyo3", "dep:pyo3-log"]
+default = ["extension-module"]
+python = ["extension-module"]

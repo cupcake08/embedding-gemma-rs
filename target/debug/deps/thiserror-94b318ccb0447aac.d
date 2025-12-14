@@ -1,0 +1,14 @@
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/thiserror-94b318ccb0447aac.d: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/thiserror-28ff930fd31bf1f8/out/private.rs
+
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/libthiserror-94b318ccb0447aac.rlib: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/thiserror-28ff930fd31bf1f8/out/private.rs
+
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/deps/libthiserror-94b318ccb0447aac.rmeta: /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs /Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs /Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/thiserror-28ff930fd31bf1f8/out/private.rs
+
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/lib.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/aserror.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/display.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/var.rs:
+/Users/ankit/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.17/src/private.rs:
+/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/thiserror-28ff930fd31bf1f8/out/private.rs:
+
+# env-dep:OUT_DIR=/Users/ankit/projects/vad_recorder/backend/embedding-gemma-rs/target/debug/build/thiserror-28ff930fd31bf1f8/out
