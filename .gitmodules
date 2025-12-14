@@ -1,0 +1,3 @@
+[submodule "fastembed-rs"]
+	path = fastembed-rs
+	url = git@github.com-personal:cupcake08/fastembed-rs.git
